@@ -10,6 +10,6 @@ mermaid: false
 
 ### Hello World
 
-Welcome to My Zone !! 
+Welcome to My Zone !!
 
-It will be better from now on!
+It will be better and richer from now on.
